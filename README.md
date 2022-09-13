@@ -7,7 +7,7 @@ It assumes user stores their Go projects in `Go` folder.
 If argument was provided creates a folder with files inside and creates github repo.
 If argument was not provided AND `$PWD` is not equal to `Go` will initialize Go project with a folder's name.
 
-The script assumes that user stores their Go lang projects inside `Go` folder and prevents it from initilize project in there.
+The script assumes that user stores their Go lang projects inside `Go` folder and prevents project initialization inside of it.
 
 ## Dependencies
 
